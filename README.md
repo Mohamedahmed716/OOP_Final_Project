@@ -28,4 +28,7 @@ It supports adding, editing, deleting, searching, listing, and saving moods to a
 3. Compile the project:  
    ```bash
    javac Mood.java InvalidMoodException.java MoodTracker.java
-4.Run the program
+4. Run the Program
+   ```bash
+   java MoodTracker
+
